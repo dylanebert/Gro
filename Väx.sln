@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Väx", "Väx.csproj", "{C1C6BCBB-701C-3826-F73F-23E42D9ADB16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Väx.Editor", "Väx.Editor.csproj", "{9602DA52-D7F5-EBE1-4108-41EC733A4E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C6BCBB-701C-3826-F73F-23E42D9ADB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C6BCBB-701C-3826-F73F-23E42D9ADB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C6BCBB-701C-3826-F73F-23E42D9ADB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C6BCBB-701C-3826-F73F-23E42D9ADB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9602DA52-D7F5-EBE1-4108-41EC733A4E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9602DA52-D7F5-EBE1-4108-41EC733A4E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9602DA52-D7F5-EBE1-4108-41EC733A4E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9602DA52-D7F5-EBE1-4108-41EC733A4E81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
